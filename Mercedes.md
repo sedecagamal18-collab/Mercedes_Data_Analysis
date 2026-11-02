@@ -76,7 +76,7 @@ The interactive dashboard consists of key performance indicators (KPIs) and anal
 
 ```text
 ├── mercedes_cars.csv             # Raw / Cleaned dataset
-├── mercedes_analysis.ipynb       # Jupyter Notebook with complete analysis code
+├── mercedes_analysis.ipynb.ipynb       # Jupyter Notebook with complete analysis code
 ├── dashboard.html                # Interactive Plotly Dashboard
 └── README.md                     # Project documentation
 ```
